@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name         = "WRControlBlock"
   s.version      = "1.0.0"
   s.summary      = "UIControl function with block."
-  s.description  = "UIControl function with block."
+  s.description  = "UIControl function with block.can user block actioin."
   s.homepage     = "https://github.com/GodFighter/WRControlBlock.git"
   s.license      = "MIT"
   s.author       = { "Leo Xiang" => "xianghui_ios@163.com" }
